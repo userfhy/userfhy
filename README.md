@@ -1,7 +1,3 @@
-# fhy
-
-[![Profile Views](https://komarev.com/ghpvc/?username=userfhy&color=6E40C9&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/userfhy)
-
 **Full-Stack & Backend Developer**  
 Building robust APIs and scalable services with Go, PHP, Rust and modern frontend frameworks.
 
@@ -35,4 +31,10 @@ Building robust APIs and scalable services with Go, PHP, Rust and modern fronten
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=userfhy&theme=tokyonight" alt="GitHub Streak Stats for userfhy" />
 
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=userfhy&label=Profile%20Views&color=0E1117&style=flat" alt="Profile Views" />
 </div>
